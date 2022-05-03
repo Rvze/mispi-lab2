@@ -31,4 +31,8 @@ public class A implements E {
     public void ab() {
         return;
     }
+
+    public int af() {
+        return -1;
+    }
 }

@@ -19,16 +19,4 @@ public class A implements E {
     public java.lang.Class qq() {
         return getClass();
     }
-
-    public byte oo() {
-        return 2;
-    }
-
-    public int cc() {
-        return 13;
-    }
-
-    public void ab() {
-        return;
-    }
 }

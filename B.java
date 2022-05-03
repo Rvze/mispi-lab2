@@ -27,16 +27,4 @@ public class B implements I, E {
     public java.lang.Class qq() {
         return getClass();
     }
-
-    public long ac() {
-        return 111;
-    }
-
-    public double ad() {
-        return 11.09;
-    }
-
-    public Object rr() {
-        return null;
-    }
 }

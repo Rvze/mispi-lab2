@@ -1,4 +1,4 @@
-public class B implements I, E {
+public class B extends null implements I, E {
 
     private double a = 100.500;
 
@@ -38,5 +38,9 @@ public class B implements I, E {
 
     public Object rr() {
         return null;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
     }
 }

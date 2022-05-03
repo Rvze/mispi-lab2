@@ -1,4 +1,4 @@
-public class A implements E {
+public class A extends null implements E {
 
     private byte g = 1;
 
@@ -30,5 +30,9 @@ public class A implements E {
 
     public void ab() {
         return;
+    }
+
+    public int af() {
+        return -1;
     }
 }

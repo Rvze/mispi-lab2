@@ -43,4 +43,8 @@ public class B extends null implements I, E {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

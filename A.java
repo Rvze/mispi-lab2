@@ -35,4 +35,8 @@ public class A extends null implements E {
     public int af() {
         return -1;
     }
+
+    public long ac() {
+        return 111;
+    }
 }

@@ -19,4 +19,8 @@ public class A implements E {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

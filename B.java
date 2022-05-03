@@ -31,4 +31,8 @@ public class B implements I, E {
     public long ac() {
         return 111;
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

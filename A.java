@@ -23,4 +23,8 @@ public class A implements E {
     public byte oo() {
         return 2;
     }
+
+    public int cc() {
+        return 13;
+    }
 }

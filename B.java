@@ -48,6 +48,10 @@ public class B extends null implements I, E {
         return new java.util.Random(10).nextInt(10);
     }
 
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+
     public byte oo() {
         return 2;
     }
@@ -62,5 +66,6 @@ public class B extends null implements I, E {
 
     public int cc() {
         return 42;
+
     }
 }

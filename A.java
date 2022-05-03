@@ -36,13 +36,22 @@ public class A extends null implements E {
         return;
     }
 
+
+    public int af() {
+        return -1;
+
     public void bb() {
         System.out.println(42);
+
     }
 
     public long ac() {
         return 111;
     }
+
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
 
     public long dd() {
         return 100500;
@@ -54,5 +63,6 @@ public class A extends null implements E {
 
     public Object gg() {
         return return getClass().getClassLoader();
+
     }
 }

@@ -39,4 +39,8 @@ public class A extends null implements E {
     public long ac() {
         return 111;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

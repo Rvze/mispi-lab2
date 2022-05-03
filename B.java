@@ -27,4 +27,8 @@ public class B implements I, E {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public long ac() {
+        return 111;
+    }
 }

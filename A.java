@@ -27,4 +27,8 @@ public class A implements E {
     public int cc() {
         return 13;
     }
+
+    public void ab() {
+        return;
+    }
 }

@@ -1,4 +1,4 @@
-public class A implements E {
+public class A extends null implements E {
 
     private byte g = 1;
 
@@ -20,6 +20,10 @@ public class A implements E {
         return getClass();
     }
 
+    public int af() {
+        return -1;
+    }
+
     public byte oo() {
         return 2;
     }
@@ -32,7 +36,23 @@ public class A implements E {
         return;
     }
 
-    public int af() {
-        return -1;
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 }
